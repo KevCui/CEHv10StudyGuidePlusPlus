@@ -8,7 +8,7 @@
 
 = CEHv10 Study Guide:heavy_plus_sign::heavy_plus_sign:
 
-## Contents
+---
 
 | CHAPTER | NAME                                   | LINK                                                   |
 | ------- | -------------------------------------- | ------------------------------------------------------ |
@@ -25,5 +25,7 @@
 | 11      | Cryptography                           | [:link:](11-Cryptography.md)                           |
 | 12      | Social Engineering                     | [:link:](12-Social_Engineering.md)                     |
 | 13      | Pen Testing                            | [:link:](13-Pen_Testing.md)                            |
+
+---
 
 Enjoy your studies! :tada:
