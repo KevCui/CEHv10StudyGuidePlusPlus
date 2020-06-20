@@ -2,7 +2,7 @@
 
 :notebook: Forked [CEHv10StudyGuide](https://github.com/scottymcraig/CEHv10StudyGuide)
 
-:heavy_plus_sign: Many updates corresponding to CEHv10 course wave
+:heavy_plus_sign: Many updates corresponding to CEHv10 courseware
 
 :heavy_plus_sign: My personal study notes
 
