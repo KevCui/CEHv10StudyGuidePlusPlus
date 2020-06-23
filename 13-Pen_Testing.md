@@ -1,3 +1,21 @@
+# Table of Contents
+
+- [Pen Testing](#pen-testing)
+  - [Security Audit](#security-audit)
+  - [Vulnerability Assessment](#vulnerability-assessment)
+    - [Product-Based Solutions](#product-based-solutions)
+    - [Service-Based Solutions](#service-based-solutions)
+    - [Tree-Based Assessment](#tree-based-assessment)
+    - [Inference-Based Assessment](#inference-based-assessment)
+  - [Penetration Testing](#penetration-testing)
+    - [Phases of Pen Testing](#phases-of-pen-testing)
+    - [Types of Pen Testing](#types-of-pen-testing)
+    - [Teams](#teams)
+    - [Automated Testing Tools](#automated-testing-tools)
+  - [Security Testing Methodology](#security-testing-methodology)
+    - [Proprietary Methodologies](#proprietary-methodologies)
+    - [Open-Source and Public Methodologies](#open-source-and-public-methodologies)
+
 # Pen Testing
 
 ## Security Audit

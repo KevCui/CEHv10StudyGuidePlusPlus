@@ -1,3 +1,40 @@
+# Table of Contents
+
+- [Essential Knowledge](#essential-knowledge)
+  - [OSI Model (Open System Interconnection)](#osi-model-open-system-interconnection)
+  - [TCP/IP Model](#tcpip-model)
+  - [CIA Triad](#cia-triad)
+  - [Vulnerability](#vulnerability)
+    - [Vulnerability Categories](#vulnerability-categories)
+    - [Vulnerability Management Tools](#vulnerability-management-tools)
+  - [Security Controls](#security-controls)
+    - [Types of physical security controls](#types-of-physical-security-controls)
+    - [Security Incident and Event Management (SIEM)](#security-incident-and-event-management-siem)
+    - [Network Security Zones](#network-security-zones)
+  - [Security Policies](#security-policies)
+    - [Policy Categorizations](#policy-categorizations)
+    - [Types of Policy](#types-of-policy)
+  - [Risk Management](#risk-management)
+    - [5 Ways To Manage Risk](#5-ways-to-manage-risk)
+    - [Threat Modeling](#threat-modeling)
+    - [Business Analysis](#business-analysis)
+  - [Hacking](#hacking)
+    - [Types of Hacker](#types-of-hacker)
+    - [Types of Attack](#types-of-attack)
+    - [Hacking Phases](#hacking-phases)
+  - [Laws and Standards](#laws-and-standards)
+    - [Categories](#categories)
+    - [Standards](#standards)
+      - [ISO/IEC 27001:2013](#isoiec-270012013)
+      - [PCI DSS (Payment Card Industry Data Security Standard)](#pci-dss-payment-card-industry-data-security-standard)
+    - [Laws](#laws)
+      - [HIPAA (Health Insurance Portability and Accountability Act)](#hipaa-health-insurance-portability-and-accountability-act)
+      - [SOX (Sarbanes Oxley Act)](#sox-sarbanes-oxley-act)
+      - [DMCA (The Digital Millennium Copyright ACT)](#dmca-the-digital-millennium-copyright-act)
+      - [FISMA (Federal Information Security Modernization Act Of 2002)](#fisma-federal-information-security-modernization-act-of-2002)
+      - [NIST-800-53](#nist-800-53)
+  - [Terms to Know](#terms-to-know)
+
 # Essential Knowledge
 
 ## OSI Model (Open System Interconnection)
@@ -231,7 +268,7 @@
 
 - A law to codify the authority of the Department of Homeland Security with regard to implementation of information security policies
 
-#### **NIST-800-53**
+#### NIST-800-53
 
 - Catalogs security and privacy controls for federal information systems, created to help implementation of FISMA
 - 5 functions are Identify, Protect, Detect, Response and Recover

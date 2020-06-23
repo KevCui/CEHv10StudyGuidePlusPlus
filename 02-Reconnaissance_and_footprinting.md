@@ -1,3 +1,22 @@
+# Table of Contents
+
+* [Reconnaissance and Footprinting](#reconnaissance-and-footprinting)
+  * [Types of Footprinting](#types-of-footprinting)
+  * [Search Engines](#search-engines)
+  * [Website Footprinting](#website-footprinting)
+  * [Email Footprinting](#email-footprinting)
+  * [DNS Footprinting](#dns-footprinting)
+    * [Types of DNS Record](#types-of-dns-record)
+      * [SOA Record Fields](#soa-record-fields)
+    * [Regional Internet registtry (RIR)](#regional-internet-registtry-rir)
+    * [nslookup](#nslookup)
+    * [dig](#dig)
+  * [Network Footprinting](#network-footprinting)
+  * [OS Fingerprinting](#os-fingerprinting)
+  * [Banner Grabbing](#banner-grabbing)
+    * [Telnet](#telnet)
+    * [Netcat](#netcat)
+  * [Other Tools](#other-tools)
 # Reconnaissance and Footprinting
 
 - Looking for high-level information on a target
