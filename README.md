@@ -1,7 +1,3 @@
----
-description: 'Source: https://github.com/KevCui/CEHv10StudyGuidePlusPlus'
----
-
 # CEHv10 Study Guide++
 
 :notebook: Forked [CEHv10StudyGuide](https://github.com/scottymcraig/CEHv10StudyGuide)
