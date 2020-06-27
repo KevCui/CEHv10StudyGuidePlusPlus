@@ -1,5 +1,5 @@
 ---
-description: 'https://github.com/KevCui/CEHv10StudyGuidePlusPlus'
+description: 'Source: https://github.com/KevCui/CEHv10StudyGuidePlusPlus'
 ---
 
 # CEHv10 Study Guide++
