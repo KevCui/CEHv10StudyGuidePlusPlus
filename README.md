@@ -28,4 +28,8 @@
 
 ---
 
+Read it on GitBook: [https://kevcui.gitbook.io/cehv10studyguideplusplus](https://kevcui.gitbook.io/cehv10studyguideplusplus)
+
+---
+
 Enjoy your studies! :tada:
