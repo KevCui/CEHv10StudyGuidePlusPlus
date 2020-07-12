@@ -2,32 +2,32 @@
 
 ## Table of Contents
 
-* [Pen Testing](13-pen_testing.md#pen-testing)
-  * [Security Audit](13-pen_testing.md#security-audit)
-  * [Vulnerability Assessment](13-pen_testing.md#vulnerability-assessment)
-    * [Product-Based Solutions](13-pen_testing.md#product-based-solutions)
-    * [Service-Based Solutions](13-pen_testing.md#service-based-solutions)
-    * [Tree-Based Assessment](13-pen_testing.md#tree-based-assessment)
-    * [Inference-Based Assessment](13-pen_testing.md#inference-based-assessment)
-  * [Penetration Testing](13-pen_testing.md#penetration-testing)
-    * [Phases of Pen Testing](13-pen_testing.md#phases-of-pen-testing)
-    * [Types of Pen Testing](13-pen_testing.md#types-of-pen-testing)
-    * [Teams](13-pen_testing.md#teams)
-    * [Automated Testing Tools](13-pen_testing.md#automated-testing-tools)
-  * [Security Testing Methodology](13-pen_testing.md#security-testing-methodology)
-    * [Proprietary Methodologies](13-pen_testing.md#proprietary-methodologies)
-    * [Open-Source and Public Methodologies](13-pen_testing.md#open-source-and-public-methodologies)
+- [Pen Testing](13-pen_testing.md#pen-testing)
+  - [Security Audit](13-pen_testing.md#security-audit)
+  - [Vulnerability Assessment](13-pen_testing.md#vulnerability-assessment)
+    - [Product-Based Solutions](13-pen_testing.md#product-based-solutions)
+    - [Service-Based Solutions](13-pen_testing.md#service-based-solutions)
+    - [Tree-Based Assessment](13-pen_testing.md#tree-based-assessment)
+    - [Inference-Based Assessment](13-pen_testing.md#inference-based-assessment)
+  - [Penetration Testing](13-pen_testing.md#penetration-testing)
+    - [Phases of Pen Testing](13-pen_testing.md#phases-of-pen-testing)
+    - [Types of Pen Testing](13-pen_testing.md#types-of-pen-testing)
+    - [Teams](13-pen_testing.md#teams)
+    - [Automated Testing Tools](13-pen_testing.md#automated-testing-tools)
+  - [Security Testing Methodology](13-pen_testing.md#security-testing-methodology)
+    - [Proprietary Methodologies](13-pen_testing.md#proprietary-methodologies)
+    - [Open-Source and Public Methodologies](13-pen_testing.md#open-source-and-public-methodologies)
 
 ## Pen Testing
 
 ### Security Audit
 
-* Policy and procedure focused
-* Tests whether organization is following specific standards and policies
+- Policy and procedure focused
+- Tests whether organization is following specific standards and policies
 
 ### Vulnerability Assessment
 
-* Scans and tests for vulnerabilities but does **not intentionally exploit them**
+- Scans and tests for vulnerabilities but does **not intentionally exploit them**
 
 #### Product-Based Solutions
 
@@ -47,58 +47,57 @@ In an inference-based assessment, scanning starts by building an inventory of pr
 
 ### Penetration Testing
 
-* Looking for vulnerabilities and **actively seeking to exploit them**
-* Need to make sure you have a great contract in place to protect you from liability
-* Clearly defined, full scale test of security controls
+- Looking for vulnerabilities and **actively seeking to exploit them**
+- Need to make sure you have a great contract in place to protect you from liability
+- Clearly defined, full scale test of security controls
 
 #### Phases of Pen Testing
 
-* **Pre-Attack Phase**: reconnaissance and data-gathering
-  * Planning and preparation: Rule of Engagement \(RoE\)
-  * Methodology design
-  * Network information gathering
-* **Attack Phase**: attempts to penetrate the network and execute attacks
-  * Penetrating perimeter
-  * Acquiring target
-  * Escalating privileges
-  * Execution, implantation, retracting
-* **Post-Attack Phase**: cleanup to return a system to the pre-attack condition and deliver reports
-  * Reporting
-  * Clean-up
-  * Artifact destruction
+- **Pre-Attack Phase**: reconnaissance and data-gathering
+  - Planning and preparation: Rule of Engagement \(RoE\)
+  - Methodology design
+  - Network information gathering
+- **Attack Phase**: attempts to penetrate the network and execute attacks
+  - Penetrating perimeter
+  - Acquiring target
+  - Escalating privileges
+  - Execution, implantation, retracting
+- **Post-Attack Phase**: cleanup to return a system to the pre-attack condition and deliver reports
+  - Reporting
+  - Clean-up
+  - Artifact destruction
 
 #### Types of Pen Testing
 
-* **Black Box**: without any knowledge of the system or network
-* **White Box**: complete knowledge of the system
-* **Gray Box**: some knowledge of the system and/or network
-* **External Assessment**: analyzing publicly available information; conducting network scanning, enumeration and testing from the network perimeter
-* **Internal Assessment**: performed from within the organization, from various network access points
+- **Black Box**: without any knowledge of the system or network
+- **White Box**: complete knowledge of the system
+- **Gray Box**: some knowledge of the system and/or network
+- **External Assessment**: analyzing publicly available information; conducting network scanning, enumeration and testing from the network perimeter
+- **Internal Assessment**: performed from within the organization, from various network access points
 
 #### Teams
 
-* **Red Team**: attacking
-* **Blue Team**: defending
-* **Purple Team**: doing both attacking and defending
+- **Red Team**: attacking
+- **Blue Team**: defending
+- **Purple Team**: doing both attacking and defending
 
 #### Automated Testing Tools
 
-* **Metasploit**: framework for developing and executing code against a remote target machine
-* **Core Impact Pro**: best known, all-inclusive automated testing framework, tests everything from web applications and individual systems to network devices and wireless
-* **CANVAS**: hundreds of exploits, automated exploitation system and extensive exploit development framework
+- **Metasploit**: framework for developing and executing code against a remote target machine
+- **Core Impact Pro**: best known, all-inclusive automated testing framework, tests everything from web applications and individual systems to network devices and wireless
+- **CANVAS**: hundreds of exploits, automated exploitation system and extensive exploit development framework
 
 ### Security Testing Methodology
 
 #### Proprietary Methodologies
 
-* IBM
-* McAfee Foundstone
-* EC-Council LPT: Licensed Penetration Tester
+- IBM
+- McAfee Foundstone
+- EC-Council LPT: Licensed Penetration Tester
 
 #### Open-Source and Public Methodologies
 
-* OWASP: Open Web Application Security Project
-* OSSTMM: Open-Source Security Testing Methodology Manual
-* ISSAF: Information System Security Assessment Framework
-* NIST: National Institute of Standards and Technology
-
+- OWASP: Open Web Application Security Project
+- OSSTMM: Open-Source Security Testing Methodology Manual
+- ISSAF: Information System Security Assessment Framework
+- NIST: National Institute of Standards and Technology
