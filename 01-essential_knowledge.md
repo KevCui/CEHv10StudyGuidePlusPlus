@@ -66,7 +66,7 @@
 - **Integrity**: hashing, digital signatures
 - **Availability**: anti-DoS solutions
 
-:warning: Confidentiality != Authentication
+<img src="https://github.githubassets.com/images/icons/emoji/unicode/26a0.png" width="24" height="auto" /> Confidentiality != Authentication
 
 ### Vulnerability
 
@@ -170,7 +170,7 @@
 - Mitigate
 - Exploit
 
-:warning: Transfer != Delegate
+<img src="https://github.githubassets.com/images/icons/emoji/unicode/26a0.png" width="24" height="auto" /> Transfer != Delegate
 
 #### Threat Modeling
 
