@@ -29,3 +29,7 @@ Read it on GitBook: [https://kevcui.gitbook.io/cehv10studyguideplusplus](https:/
 ---
 
 Enjoy your studies! <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f389.png" width="24" height="auto" />
+
+---
+
+<a href="https://www.buymeacoffee.com/kevcui" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="60px" width="217px"></a>
