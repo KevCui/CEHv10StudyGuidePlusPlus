@@ -103,7 +103,7 @@
 - SNMP community string, like user id or password
 - FTP, TFTP, IMAP, POP3, NNTP \(Network News Transfer Protocol\) and HTTP all send over clear text data
 - TCP shows sequence numbers, usable in session hijacking
-- TCP and UCP show open ports
+- TCP and UDP show open ports
 - IP shows source and destination addresses
 - Telnet and Rlogin show keystrokes including user names and passwords sent in cleartext
 
