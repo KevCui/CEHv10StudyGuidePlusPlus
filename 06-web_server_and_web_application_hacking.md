@@ -221,7 +221,9 @@
 - Can also be passed via URL `http://IPADDRESS/";!--"<XSS>=&{()}`
 - Can be malicious by accessing cookies and sending them to a remote host
 - Can be mitigated by setting **HttpOnly** flag for cookies
-- **Stored XSS**: stores the XSS in a forum or like for multiple people to access
+- **DOM Based XSS** (Type 0): a form of XSS where the entire tainted data flow from source to sink takes place in the browser, and the data flow never leaves the browser. e.g.: the URL of the page or an element of HTML...
+- **Stored XSS** (Persistent or Type I): stores the XSS in a forum or like on the target server, for multiple people to access
+- **Reflected XSS** (Non-persistent or Type II): occurs when user input is immediately returned by a web application, without permanently storing the user provided data
 
 #### CSRF \(Cross-Site Request Forgery\)
 
